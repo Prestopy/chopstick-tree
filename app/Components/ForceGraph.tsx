@@ -586,7 +586,7 @@ export default function GameTree({
 					</p>
 					<button
 						type="submit"
-			className="text-2xl"
+						className="text-2xl"
 						style={{
 							background: searchedP1NextTurn ? "#38bdf8" : "#f472b6",
 							color: "#000",
